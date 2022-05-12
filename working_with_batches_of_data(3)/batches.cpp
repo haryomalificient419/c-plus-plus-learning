@@ -19,6 +19,7 @@ int main(){
 
     cout << "Enter all your homeowrk gardes, "
             "followed by end-of-file:";
+            
     
     int count = 0;
     double sum = 0;
@@ -28,7 +29,6 @@ int main(){
     while (cin >> x){
         ++count;
         sum += x;
-        cout << sum << endl;
     }
 
     streamsize prec = cout.precision();
