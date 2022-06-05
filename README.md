@@ -1,2 +1,2 @@
 # c-plus-plus-learning
-Based on the book Accelerated C++ - Andrew Koenig.
+Based on the book Accelerated C++ - Andrew Koenig and more.
